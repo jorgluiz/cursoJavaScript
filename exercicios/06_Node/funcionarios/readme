@@ -1,0 +1,7 @@
+# resolvendo o exercício funcionarios.js
+
+- Será usado três funções
+
+1 - [] Criar uma função que vai filtrar todos os chineses da lista dos 500 funcionarios
+2 - [] Criar uma função que vai filtrar mulheres chinesas
+3 - [] Criar uma função que vai filtrar o menor salário

@@ -1,0 +1,5 @@
+# Criando arquivo package.json
+
+* `npm init` // passo a passo
+* `npm init -y` // criando direto
+* `npm i --save axios` //
